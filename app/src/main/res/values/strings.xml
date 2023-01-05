@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Popup Menu</string>
+    <string name="popup_menu">popup menu</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+</resources>
